@@ -1,0 +1,10 @@
+1. Backend 
+- process taking place on web servers
+- anything that can take in http request and give out html can be put on a webserver, therefore plenty of language options
+- example of backend processes 
+  - processing incoming http request 
+  - running scripts stored on web servers to generate html 
+  - accessing, storing, updating data in the database using SQL queries 
+  - handling files uploads 
+  - handling user input (done on web browsers btw) 
+- 
